@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alicia Camopbell</title>
+    <description>Brain P.I. (also answers to Cognitive Neuroscientist)</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Test Post</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Oct 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000//ms/2024/10/01/test.html</link>
+        <guid isPermaLink="true">http://localhost:4000//ms/2024/10/01/test.html</guid>
+      </item>
+    
+  </channel>
+</rss>
