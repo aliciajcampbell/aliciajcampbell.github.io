@@ -8,5 +8,5 @@ gem "github-pages", group: :jekyll_plugins
 # gem 'jekyll-paginate'
 # gem 'kramdown-parser-gfm'
 
-# Optional: Specific theme
-gem "jekyll-theme-cayman"
+# # Optional: Specific theme
+# gem "jekyll-theme-cayman"
