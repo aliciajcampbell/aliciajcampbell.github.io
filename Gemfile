@@ -1,12 +1,12 @@
 source 'http://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'kramdown-parser-gfm'
+# Use the GitHub Pages gem to ensure compatibility
+gem "github-pages", group: :jekyll_plugins
 
-# Jekyll themes
+# Remove individual Jekyll gems
+# gem 'jekyll'
+# gem 'jekyll-paginate'
+# gem 'kramdown-parser-gfm'
+
+# Optional: Specific theme
 gem "jekyll-theme-cayman"
-#gem "minima"
-
-# I think this should work, but fails on install, with version issues
-#gem "github-pages", group: :jekyll_plugins
