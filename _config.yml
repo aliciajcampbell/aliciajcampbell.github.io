@@ -1,0 +1,18 @@
+title: 'Alicia J. Camobell, PhD (almost)'
+description: 'Brain P.I. (also answers to Cognitive Neuroscientist)'
+
+name: 'Alicia Camopbell'
+url: https://aliciajcampbell.github.io
+
+theme: jekyll-theme-cayman
+
+# # Google analytics services
+# google_analytics: UA-93965597-1
+
+twitter_username:     AllyNeuro
+github_username:      aliciajcampbell
+
+# Options for kramdown markdown
+kramdown:
+  # Set which header levels get included in TOC
+  toc_levels: 2..2
