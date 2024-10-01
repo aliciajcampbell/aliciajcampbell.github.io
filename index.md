@@ -12,7 +12,7 @@ layout: default
 {: refdef}
 
 Hello, I'm Alicia! I'm a research scientist, working in the area of cognitive neuroscience in ageing.
-I am currently a PhD research student in the [Healthy Brain Ageing (HBA)](https://www.usc.edu.au/thompson-institute/research-at-the-thompson-institute/healthy-brain-ageing-program) lab, lead by [Dr Sophie Andrews](https://www.usc.edu.au/staff/dr-sophie-andrews#biography) at the University of the Sunshine Coast - [Thompson Institute](https://www.usc.edu.au/thompson-institute), Queensland, Australia. (I am currently completing this remotely from Sweden) I am also currently a guest doctoral researcher in the [Lund Memory Lab](https://www.psy.lu.se/en/research/neuro/lund-memory-lab), lead by [Professor Mikael Johanson](https://portal.research.lu.se/en/persons/mikael-johansson) at Lund University, Lund, Sweden.
+I am currently a PhD research student in the [Healthy Brain Ageing (HBA)](https://www.usc.edu.au/thompson-institute/research-at-the-thompson-institute/healthy-brain-ageing-program) lab, led by [Dr Sophie Andrews](https://www.usc.edu.au/staff/dr-sophie-andrews#biography) at the University of the Sunshine Coast - [Thompson Institute](https://www.usc.edu.au/thompson-institute), Queensland, Australia. (I am currently completing this remotely from Sweden) I am also currently a guest doctoral researcher in the [Lund Memory Lab](https://www.psy.lu.se/en/research/neuro/lund-memory-lab), led by [Professor Mikael Johanson](https://portal.research.lu.se/en/persons/mikael-johansson) at Lund University, Lund, Sweden.
 
 My research is focused on the analysis of novel EEG biomarkers related to age-related cognitive decline, with a focus on sustained attention, and how these markers change and are associated with cognition after a multimodal lifestyle intervention. For a more thorough overview, I have described my research on the [research](research.html) page.
 
@@ -41,8 +41,8 @@ One of the most rewarding aspects of working in science is collaborating with in
 If you'd like to get in touch, you can e-mail me at `alicia.campbell@research.usc.edu.au`.
 
 You can also find me on
-
-[X](https://twitter.com/AllyNeuro).
+[X](https://twitter.com/AllyNeuro) and
+[LinkedIn](https://www.linkedin.com/in/allyneuro/)
 
 ### Website Source
 

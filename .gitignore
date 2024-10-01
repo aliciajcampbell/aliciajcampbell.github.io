@@ -1,9 +1,6 @@
-# Ignore Jekyll cache
 .jekyll-cache/
-
-# Ignore Jekyll site output
 _site/
-
-# Ignore dependency directories
 node_modules/
 vendor/
+.gitignore
+.DS_Store
