@@ -1,0 +1,11 @@
+version: 2
+updates:
+  # Monitor Ruby gems (Bundler) in the root directory
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    ignore:
+      - dependency-name: "jekyll"  # Ignore jekyll updates, managed by github-pages gem
+    commit-message:
+      prefix: "fix"

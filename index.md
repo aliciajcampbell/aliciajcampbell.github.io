@@ -46,8 +46,6 @@ You can also find me on
 
 ### Website Source
 
-This website is hosted using [Github pages](https://pages.github.com/),
-
-and the source repository is available [here](https://github.com/aliciajcampbell/aliciajcampbell.github.io).
+This website is hosted using [Github pages](https://pages.github.com/), and the source repository is available [here](https://github.com/aliciajcampbell/aliciajcampbell.github.io).
 
 This page is usually up to date. You can check the last updated date on website [update log](https://github.com/aliciajcampbell/aliciajcampbell.github.io/commits/main).

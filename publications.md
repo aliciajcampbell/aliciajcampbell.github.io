@@ -30,6 +30,7 @@ You can also find this information on my
 
 2024
 - Campbell, A. J., Anijärv, T. E., Pace, T., Treacy, C., Lagopoulos, J., Hermens, D. F., Levenstein, J. M., & Andrews, S. C. (2024). [Resting-state EEG correlates of sustained attention in healthy ageing: Cross-sectional findings from the LEISURE study](https://doi.org/10.1016/j.neurobiolaging.2024.09.005). Neurobiology of Aging, 144, 68–77.
+
 - Treacy, C., Campbell, A. J., Anijärv, T. E., Lagopoulos, J., Hermens, D. F., Andrews, S. C., & Levenstein, J. M. (2024). [Structural brain correlates of sustained attention in healthy ageing: Cross-sectional findings from the LEISURE study](https://doi.org/10.1016/j.neurobiolaging.2024.09.010). Neurobiology of Aging, 144, 93–103.
 
 ## Conference Posters
