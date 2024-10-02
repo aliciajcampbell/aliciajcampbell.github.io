@@ -1,6 +1,12 @@
-.jekyll-cache/
-_site/
-node_modules/
-vendor/
-.gitignore
+# Ignore the drafts folder
+_drafts/*
+
+# Ignore the local site build
+_site/*
+
+# Ignore cache directories
+.sass-cache/*
+.jekyll-cache/*
+
+# Ignore mac files
 .DS_Store
