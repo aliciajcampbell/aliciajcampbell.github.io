@@ -15,4 +15,4 @@ github_username:      aliciajcampbell
 # Options for kramdown markdown
 kramdown:
   # Set which header levels get included in TOC
-  toc_levels: 2..2
+  toc_levels: 2..6
