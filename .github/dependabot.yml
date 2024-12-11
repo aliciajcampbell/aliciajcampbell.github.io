@@ -4,7 +4,7 @@ updates:
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     ignore:
       - dependency-name: "jekyll"  # Ignore jekyll updates, managed by github-pages gem
     commit-message:
